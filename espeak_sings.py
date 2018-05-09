@@ -1,5 +1,5 @@
 #!/usr/bin/python
-
+# -*- coding: UTF8 -*-
 # Copyright © 2015 Keefer Rourke <keefer.rourke@gmail.com>
 # <https://krourke.org>
 #
